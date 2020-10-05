@@ -1,10 +1,12 @@
 
-class Saludo{
-    constructor(){
-        console.log("Hola Mundo... desde una clase");
-    }
-}
+/*Calculamos el area de un cuadrado*/
 
-console.log('Hola Mundo... cambio');
 
-var saludo01 = new Saludo();
+let cuadrado = (x:number, y:number) => { 
+
+    /*Multiplicaremos la base por la altura */
+    
+    let area= x * y
+    return area
+
+ }
