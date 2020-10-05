@@ -5,7 +5,7 @@
 var nombre1 = "Lucia";
 var edad1 = 68;
 
-var nombre2 = "Pepe";
+var nombre2 = "Pedro";
 var edad2 = 69;
 
 //Juntamos cada persona en una variable distinta
