@@ -1,4 +1,4 @@
-Primero ponemos el comando "git init" para crear el repositorio
+Primero escribiremos el comando "git init" para crear el repositorio
 
 Creamos el fichero "README.MD", en mi caso lo he creado a mano, donde explicaremos el proceso de lo que vamos haciendo.
 
