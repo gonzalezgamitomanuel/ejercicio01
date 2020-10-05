@@ -2,10 +2,10 @@
 
 //Creamos dos personas con sus distintos nombres y edades
 
-var nombre1 = "Messi Betico";
+var nombre1 = "Lucia";
 var edad1 = 68;
 
-var nombre2 = "Ronaldo Sevillista";
+var nombre2 = "Pepe";
 var edad2 = 69;
 
 //Juntamos cada persona en una variable distinta
